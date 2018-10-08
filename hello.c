@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-cout<<"hello";
-return 1
+	ssd
+	cout<<"hello";
+	return 1
 }
